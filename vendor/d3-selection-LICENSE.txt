@@ -1,0 +1,23 @@
+d3-selection v3.0.0 -- https://github.com/d3/d3-selection
+Bundled here (publication/vendor/d3-selection-3.0.0.min.js) so that the
+generated HTML figures render offline, with no call to any CDN, for as long as
+a browser exists. It is the only third-party JavaScript used.
+
+SHA-256 of the bundled file:
+45daab9cf677901bcae102f3f23ca2930db3c0fb8ff9e3dbed087d9c4de921ca
+
+------------------------------------------------------------------------------
+
+Copyright 2010-2021 Mike Bostock
+
+Permission to use, copy, modify, and/or distribute this software for any purpose
+with or without fee is hereby granted, provided that the above copyright notice
+and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.

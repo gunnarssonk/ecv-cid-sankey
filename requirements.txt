@@ -1,0 +1,5 @@
+# Exact versions used to produce the deposited figures, so the deposit can be  reproduced as-is. 
+# Any pandas >= 2.0 and openpyxl >= 3.1 should also work.
+# Produced with Python 3.11.
+pandas==3.0.5
+openpyxl==3.1.5

@@ -1,0 +1,46 @@
+{
+  "title": "ECV-CID Sankey: figures linking GCOS and ESA CCI Essential Climate Variables to IPCC AR6 Climatic Impact-Drivers",
+  "description": "<p>A Python script that renders the two published Sankey diagrams from the mapping workbook <em>Mapping GCOS ECVs and ESA ECV projects to IPCC AR6 Climatic Impact-Drivers</em> (<a href=\"https://doi.org/10.5281/zenodo.21871535\">10.5281/zenodo.21871535</a>).</p><p>The first figure traces the 55 GCOS Essential Climate Variables to the 33 IPCC AR6 Climatic Impact-Drivers (170 links; 60 direct, 110 indirect). The second traces the ESA Climate Change Initiative ECV projects to the Climatic Impact-Drivers they inform (109 links; 36 direct, 73 indirect, reaching 30 of the 33 CIDs).</p><p>Both figures are produced by one script from one workbook, and each run writes a standalone HTML file at A4 portrait width, its height set by the number of variables mapped. The plotting library is embedded in the output, so an archived figure renders offline and needs no external service.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Gunnarsson, Klara",
+      "affiliation": "European Space Agency",
+      "orcid": "0009-0002-7011-1294"
+    },
+    {
+      "name": "Connors, Sarah",
+      "affiliation": "European Space Agency",
+      "orcid": "0000-0001-7150-5135"
+    }
+  ],
+  "keywords": [
+    "Essential Climate Variables",
+    "Climatic Impact-Drivers",
+    "IPCC AR6",
+    "GCOS",
+    "ESA Climate Change Initiative",
+    "Earth observation",
+    "climate services",
+    "Sankey diagram",
+    "data visualisation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21871535",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.21871535",
+      "relation": "requires",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}

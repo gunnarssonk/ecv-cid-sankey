@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this script, please cite it and the mapping workbook it reads (see references)."
+title: "ECV-CID Sankey: figures linking GCOS and ESA CCI Essential Climate Variables to IPCC AR6 Climatic Impact-Drivers"
+type: software
+authors:
+  - family-names: Gunnarsson
+    given-names: Klara
+    affiliation: "European Space Agency"
+    orcid: "https://orcid.org/0009-0002-7011-1294"
+  - family-names: Connors
+    given-names: Sarah
+    affiliation: "European Space Agency"
+    orcid: "https://orcid.org/0000-0001-7150-5135"
+version: "1.0.0"
+date-released: "2026-09-15"
+license: MIT
+repository-code: "https://github.com/gunnarssonk/ecv-cid-sankey"
+# Added once a GitHub release is archived to Zenodo and a code DOI is minted:
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.XXXXXXXX
+#     description: "Archived snapshot of this release"
+keywords:
+  - Essential Climate Variables
+  - ECV
+  - Climatic Impact-Drivers
+  - CID
+  - IPCC AR6
+  - GCOS
+  - ESA
+  - Earth observation
+  - climate services
+  - Sankey
+  - data visualisation
+references:
+  - type: data
+    title: "Mapping GCOS ECVs and ESA ECV projects to IPCC AR6 Climatic Impact-Drivers"
+    authors:
+      - family-names: Gunnarsson
+        given-names: Klara
+        orcid: "https://orcid.org/0009-0002-7011-1294"
+      - family-names: Connors
+        given-names: Sarah
+        orcid: "https://orcid.org/0000-0001-7150-5135"
+    year: 2026
+    doi: 10.5281/zenodo.21871535

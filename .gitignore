@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+gcos-ecv-cid.html
+esa-ecv-cid.html
+data/*.xlsx
